@@ -10,3 +10,4 @@ venv/
 
 # Allure results
 allure-results/
+allure-report/
